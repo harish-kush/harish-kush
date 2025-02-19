@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 19 year old, B-Tech student of Maulana Azad National Institute of Technology.<br>I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new<br>things; the more, the better.<br>Currently I am working as Web Devloper in FiNIT and Aaroha societies of MANIT Bhopal and skilling my self in the field of Data Structures and Algorithm.
+I am a 19-year-old B.Tech student at Maulana Azad National Institute of Technology (MANIT), passionate about problem-solving and creating user-friendly, aesthetically pleasing designs. I thrive on continuous learning—always eager to expand my knowledge and improve my skills. <br>Currently, I am working as a Web Developer for the FiNIT and Aaroha societies at MANIT Bhopal, honing my expertise in web development and strengthening my proficiency in Data Structures and Algorithms.
 
 
 ## 🌐 Socials:
