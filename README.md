@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+Student+%E2%80%A2+MANIT+Bhopal;Technical+Head+%40+Aaroha;Web+Developer+%40+FiNIT;Competitive+Programmer+%E2%80%A2+DSA+Enthusiast;Building+Scalable+%26+Intelligent+Software" alt="Typing SVG" />
 </a>
 
-[![GitHub followers](https://img.shields.io/github/followers/harish-kush?style=for-the-badge&color=8b5cf6&labelColor=1c1917)](https://github.com/harish-kush?tab=followers)
 
 </div>
 
