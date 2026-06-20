@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harish%20Kushwaha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=4th-Year+ECE+Student+%E2%80%A2+MANIT+Bhopal;Building+Microlyzer+AI+%E2%80%94+AI+Interview+Prep;Designing+Scalable+Systems+%26+Distributed+Apps;Currently+Cracking+System+Design+%26+DSA;Goldman+Sachs+India+Hackathon+2026+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+Student+%E2%80%A2+MANIT+Bhopal;Technical+Head+%40+Aaroha;Web+Developer+%40+FiNIT;Competitive+Programmer+%E2%80%A2+DSA+Enthusiast;Building+Scalable+%26+Intelligent+Software" alt="Typing SVG" />
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=harish-kush&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)](https://github.com/harish-kush)
@@ -19,22 +19,24 @@
 
 ```javascript
 const harish = {
-    role: "Electronics & Communication Engineering Student",
+    age: 21,
+    role: "B.Tech Student, Electronics & Communication Engineering",
     college: "MANIT Bhopal",
-    year: "Final Year — Placement Season 2026",
-    interests: ["System Design", "AI/ML Integration", "Full-Stack Dev", "Competitive Programming"],
-    currentlyBuilding: "Microlyzer AI — AI-powered interview prep platform",
-    currentlyExploring: ["LangChain", "RAG Pipelines", "Pinecone", "Kafka", "WebSockets"],
-    funFact: "Optimized a multi-drone delivery router with 2-opt & Or-opt @ Goldman Sachs Hackathon"
+    positions: ["Technical Head @ Aaroha", "Web Developer @ FiNIT"],
+    competitiveProgramming: {
+        codechef: "3★ Rated",
+        codeforces: "1431 — Specialist",
+        leetcode: "Max Rating 1971"
+    },
+    interests: ["Generative AI", "Machine Learning", "Distributed Systems", "Full-Stack Development"]
 };
 ```
 
-- 🔭 Currently building **Microlyzer AI** — a dark, glassmorphic, Framer-Motion-animated interview prep platform
-- 🧠 Deep-diving into **system design** — URL shorteners, real-time chat architecture, Kafka pipelines, WebSocket delivery
-- 🏆 Participated in the **Goldman Sachs India Hackathon 2026**, solving a multi-drone routing problem in C++
-- 🌱 Exploring **AI-integrated microservices** — LangChain, RAG, Pinecone, OpenAI/Gemini APIs
-- 🎯 Actively preparing for **campus placements** in Software Engineering
-- ⚡ Fun fact: I'd rather ship code than talk about shipping code
+- 💻 I love **Competitive Programming** — solving problems that sharpen my DSA and problem-solving skills
+- 🏛️ **Technical Head at Aaroha**, shaping web & app experiences for the NGO's digital presence
+- 🌐 **Web Developer at FiNIT**, building and maintaining their web ecosystem
+- 🤖 Passionate about **Generative AI, ML, and Distributed Systems** — I enjoy designing microservices and integrating AI into real-world products
+- 🚀 Always excited to learn, innovate, and build software that scales
 
 <br clear="right"/>
 
@@ -42,31 +44,43 @@ const harish = {
 
 <div align="center">
 
-### Languages & Core
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fast API](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### AI / Tools / DevOps
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -98,25 +112,6 @@ const harish = {
 <!--END_SECTION:snake-->
 
 </div>
-
-> The snake above eats through my contribution graph — it's auto-generated daily by a GitHub Action (workflow included below). It'll start animating after the first run on your repo. 🐍
-
-<br/>
-
-## 🚀 Featured Work
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Microlyzer AI](https://github.com/harish-kush)** | AI-powered interview preparation platform with a dark glassmorphic UI, ambient glow, and Framer Motion micro-interactions | `React` `Tailwind` `Framer Motion` |
-| **[OCD_DETECTION](https://github.com/harish-kush/OCD_DETECTION)** | Machine learning notebook exploring OCD pattern detection | `Jupyter` `Python` `ML` |
-| **[Aaroha App](https://github.com/harish-kush/Aaroha-App-harish)** | Mobile app contribution for Aaroha — Tamso Jyotih NGO | `Dart` `Flutter` |
-| **[FiNIT Website](https://github.com/harish-kush/FiNIT_website_final)** | Digital ecosystem website for FiNIT | `JavaScript` `HTML` `CSS` |
-
-</div>
-
-<br/>
 
 ## 🏆 Achievements
 
