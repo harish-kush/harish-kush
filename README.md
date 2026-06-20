@@ -7,7 +7,6 @@ Developer, Builder, and Lifelong Learner
 I am a final-year Electronics and Communication Engineering student at MANIT Bhopal with a strong interest in software engineering, distributed systems, and artificial intelligence. I enjoy designing and building scalable, high-performance applications, from full-stack web platforms to AI-powered solutions. My experience spans React, Node.js, Express, MongoDB, and modern cloud-native development practices. Through projects such as ResolveAI, the Aaroha platform, and FiNIT's digital ecosystem, I have worked on transforming ideas into reliable and user-centric products. I am passionate about system design, problem-solving, and leveraging technology to build solutions that can scale to real-world impact.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [here](http://harish-portfolio-xi.vercel.app/)
 * ✉️  You can contact me at [h.kush2005@gmail.com](mailto:h.kush2005@gmail.com)
 * 🧠  I'm currently learning Machine learning and Generative AI
 
